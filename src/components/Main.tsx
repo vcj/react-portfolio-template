@@ -13,15 +13,13 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://www.linkedin.com/in/vicky-johnson-dahl/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Yuji Sato</h1>
-          <p>Full Stack Engineer</p>
+          <h1>Vicky Johnson-Dahl</h1>
+          <p>GIS Expert | Cartographer | Author | Developer | NACIS VP</p>
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://www.linkedin.com/in/vicky-johnson-dahl/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
       </div>
